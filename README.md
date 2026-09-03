@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abir30hosen/Abir30hosen/main/Abir_Hosen_banner_without_collaborate.svg" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Abir Hosen</h1>
 <h3 align="center">CSE Student</h3>
 
