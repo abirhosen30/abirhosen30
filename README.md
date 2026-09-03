@@ -1,18 +1,48 @@
 <p align="center">
   <img src="./banner(1).png" width="100%">
 </p>
-<h1 align="center">Hi 👋, I'm Abir Hosen</h1>
-<h3 align="center">CSE Student</h3>
+<!-- Name & Designation (animated typing) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6a11cb&center=true&vCenter=true&width=650&lines=CSE+Student;Aspiring+Full+Stack+Developer;" alt="Typing SVG" />
+  </a>
+### 👋 About Me
+I'm a Computer Science undergraduate student from Bangladesh, currently building a strong foundation in **Software Development**, with a growing interest in **AI/ML Engineering** and **Cyber Security**. I also have a background in **IoT research**, and I enjoy exploring different aspects of technology, turning theory into small, working projects.
 
-<h3 align="left">Connect with me:</h3>
+### 🔭 Currently
+- 💻 Learning **Full Stack Web Development**, planning to build some large-scale projects
+- 🧠 Growing my interest in **AI/ML**, aiming to work on real-world ML pipelines and Computer Vision projects
+- 🔐 Exploring **Cyber Security** fundamentals
+- 🌱 Always exploring new tools and technologies
+
+### 🧰 Skills
+**Languages**
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Markup & Styling**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abirhosen30&show_icons=true&locale=en&layout=compact" alt="abirhosen30" /></p>
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abirhosen30&show_icons=true&locale=en" alt="abirhosen30" /></p>
+**Tools & Others**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+</p>
 
+### 🌐 Connect with Me
+<p align="left">
+  <a href="mailto:abir30hosen2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.facebook.com/abir.hosen.469404"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
+
+### 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abirhosen30&" alt="abirhosen30" /></p>
+
+### 🐍 Contribution Snake
+![Snake Grid](https://github.com/abirhosen30/contribution-snake/blob/output/grid.svg)
