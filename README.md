@@ -5,13 +5,14 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6a11cb&center=true&vCenter=true&width=650&lines=CSE+Student;Aspiring+Full+Stack+Developer;" alt="Typing SVG" />
   </a>
+  <br>
 ### 👋 About Me
-I'm a Computer Science undergraduate student from Bangladesh, currently building a strong foundation in **Software Development**, with a growing interest in **AI/ML Engineering** and **Cyber Security**. I also have a background in **IoT research**, and I enjoy exploring different aspects of technology, turning theory into small, working projects.
+<br>
+I'm a Computer Science undergraduate student from Bangladesh, currently building a strong foundation in **Software Development**, with a growing interest in **AI/ML Engineering**.I enjoy exploring different aspects of technology, turning theory into small.
 
 ### 🔭 Currently
 - 💻 Learning **Full Stack Web Development**, planning to build some large-scale projects
 - 🧠 Growing my interest in **AI/ML**, aiming to work on real-world ML pipelines and Computer Vision projects
-- 🔐 Exploring **Cyber Security** fundamentals
 - 🌱 Always exploring new tools and technologies
 
 ### 🧰 Skills
