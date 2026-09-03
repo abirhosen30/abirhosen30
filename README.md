@@ -44,6 +44,3 @@ I'm a Computer Science undergraduate student from Bangladesh, currently building
 
 ### 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abirhosen30&" alt="abirhosen30" /></p>
-
-### 🐍 Contribution Snake
-![Snake Grid](https://github.com/abirhosen30/contribution-snake/blob/output/grid.svg)
