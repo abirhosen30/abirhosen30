@@ -1,13 +1,13 @@
+<!-- Banner -->
 <p align="center">
   <img src="./banner(1).png" width="100%">
-</p>
-<!-- Name & Designation (animated typing) -->
+  <!-- Name & Designation (animated typing) -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6a11cb&center=true&vCenter=true&width=650&lines=CSE+Student;Aspiring+Full+Stack+Developer;" alt="Typing SVG" />
   </a>
-  <br>
+</p>
+
 ### 👋 About Me
-<br>
 I'm a Computer Science undergraduate student from Bangladesh, currently building a strong foundation in **Software Development**, with a growing interest in **AI/ML Engineering**.I enjoy exploring different aspects of technology, turning theory into small.
 
 ### 🔭 Currently
